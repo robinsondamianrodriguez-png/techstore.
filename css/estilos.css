@@ -1,0 +1,20 @@
+body {
+    background-color: #f6f6f6;
+    font-family: Arial, sans-serif;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.video-wrapper {
+    width: 800px;  /* AJUSTA ESTE VALOR PARA HACERLO MÁS PEQUEÑO */
+    margin: auto; 
+}
+
+
